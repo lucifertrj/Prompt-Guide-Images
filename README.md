@@ -138,8 +138,8 @@
 [Subject] in [Action], [Setting]
 [Artistic Style] + [Medium]
 [Lighting] with [Atmosphere]
-[Camera Specifications]
-[Special Effects]
+[Camera Specifications - Optional]
+[Special Effects - Optional]
 [Quality Modifiers]
 ```
 
