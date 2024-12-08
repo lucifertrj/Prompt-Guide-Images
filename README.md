@@ -140,7 +140,6 @@
 [Lighting] with [Atmosphere]
 [Camera Specifications - Optional]
 [Special Effects - Optional]
-[Quality Modifiers]
 ```
 
 # Prompt Weighting and Flow Guide
