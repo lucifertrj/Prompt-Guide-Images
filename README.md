@@ -132,7 +132,7 @@
 - **Time**: golden hour, blue hour, night time
 - **Weather**: foggy, rainy, sunny, overcast
 
-### Example Prompt Structure
+### Syntax Prompt Structure
 
 ```
 [Subject] in [Action], [Setting]
@@ -141,6 +141,8 @@
 [Camera Specifications - Optional]
 [Special Effects - Optional]
 ```
+
+> Note: The above syntax is not in order, its like you must include these details within the prompt, mostly if the order is messed up, it should be fine. 
 
 # Prompt Weighting and Flow Guide
 
