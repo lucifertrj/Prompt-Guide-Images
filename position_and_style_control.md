@@ -37,17 +37,6 @@
 (((professional cocktail photography))), ((glass with citrus garnish)),
 (clear ice), (aromatic herbs), (high-end drink presentation),
 [style: commercial, professional], [lighting: soft_studio]
-
-// Decorative Elements
-[position: x=0.8, y=0.8][style: minimal] ((bubble illustrations))
-[position: x=0.2, y=0.2][style: flowing] ((wave pattern))
-
-// Overall Style Modifiers
-[composition: balanced, centered]
-[color_scheme: mint_and_white]
-((commercial beverage photography:1.2))
-((professional graphic design:1.1))
-[quality: professional, advertisement]
 ```
 
 ## Key Components Breakdown
